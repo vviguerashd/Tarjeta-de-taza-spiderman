@@ -21,6 +21,20 @@ body{
     top: 1px;
 }
 
+.fondo2{
+    background-color: rgb(165, 147, 42);
+    height: 100px;
+    width: 98%;
+    border-radius: 10px;
+    position: relative;
+    left: 1px;
+    top: 1px;
+}
+
+div p:nth-child(2){
+    color: red;
+}
+
 #corazon{
     position: relative;
     top: -105px;
