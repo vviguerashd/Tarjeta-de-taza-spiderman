@@ -1,0 +1,90 @@
+body{
+    color: rgb(83, 4, 4);
+    background-color: rgb(116, 114, 114);
+}
+
+.padre{
+    background-color: rgb(255, 255, 255);
+    width: 160px;
+    height: 340px;
+    border-radius: 10px;
+
+}
+
+.fondo{
+    background-color: brown;
+    height: 100px;
+    width: 98%;
+    border-radius: 10px;
+    position: relative;
+    left: 1px;
+    top: 1px;
+}
+
+#corazon{
+    position: relative;
+    top: -105px;
+    left: 130px;
+}
+
+#taza{
+    width: 80%;
+    position: relative;
+    bottom: -30px;
+    right: 10px;
+}
+
+.textos{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
+#primer_titulo{
+    color: pink; 
+    font-family: "Ballet", cursive;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+    
+}
+
+.titulo{
+    color: rgb(255, 217, 0);
+}
+
+h2{
+    color: blueviolet;
+}
+
+h2{
+    color: greenyellow;
+}
+
+/* .ballet-<uniquifier> {
+    font-family: "Ballet", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+} */
+
+.container{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+.container div{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+
+#two{
+    position: fixed;
+    right: 50px;
+    background-color: rgb(43, 226, 116);
+}
